@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lands and Legends</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="LogInToYourAccount">Inicia sesión en tu cuenta</string>
+    <string name="Email">Correo electrónico</string>
+    <string name="Company">Empresa</string>
+    <string name="ShowPassword">Mostrar contraseña</string>
+    <string name="Enter">Ingresar</string>
+    <string name="next">Siguiente</string>
+    <string name="close">Cerrar</string>
+    <string name="results">Resultados</string>
+    <string name="Credencialesinválidas">Credenciales inválidas</string>
+    <string name="Rellenatodosloscampos">Rellena todos los campos</string>
+    <string name="Correcto">Correcto</string>
+    <string name="Incorrecto">Incorrecto</string>
+    <string name="Seleccionaunarespuesta">Selecciona una respuesta</string>
+    <string name="Results">Resultados</string>
+    <string name="Youdidit">¡Lo lograste!</string>
+    <string name="Congratulations">Felicidades por completar el cuestionario. Tu puntuación total es:</string>
+    <string name="timespent">Tiempo empleado</string>
+    <string name="exit">Salir</string>
+    <string name="notification_title">¡Hora de jugar!</string>
+    <string name="notification_text">No olvides responder tus preguntas diarias</string>
+    <string name="channel_name">Recordatorios diarios</string>
+    <string name="channel_description">Notificaciones diarias para responder preguntas</string>
+    <string name="Errordepermisos">Error de permisos:</string>
+    <string name="Permisonecesarioparaalarmasexactas">Permiso necesario para alarmas exactas</string>
+    <string name="Idiomanosoportado">Idioma no soportado</string>
+    <string name="ErroralinicializarTTS">Error al inicializar TTS</string>
+    <string name="Erroralreprogramar">Error al reprogramar:</string>
+    <string name="Cargandopreguntas">Cargando preguntas...</string>
+
+</resources>

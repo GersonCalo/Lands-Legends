@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/logInFragment">
+
+    <fragment
+        android:id="@+id/logInFragment"
+        android:name="com.t4.jakin_mina.view.LogInFragment"
+        android:label="fragment_log_in"
+        tools:layout="@layout/fragment_log_in" >
+        <action
+            android:id="@+id/action_logInFragment_to_preguntaFragment"
+            app:destination="@id/preguntaFragment"
+            app:popUpTo="@id/nav_graph"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/preguntaFragment"
+        android:name="com.t4.jakin_mina.view.PreguntaFragment"
+        android:label="fragment_pregunta"
+        tools:layout="@layout/fragment_pregunta" >
+        <action
+            android:id="@+id/action_preguntaFragment_to_finFragment"
+            app:destination="@id/finFragment"
+            app:popUpTo="@id/nav_graph"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/finFragment"
+        android:name="com.t4.jakin_mina.view.FinFragment"
+        android:label="fragment_fin"
+        tools:layout="@layout/fragment_fin" >
+        <action
+            android:id="@+id/action_finFragment_to_logInFragment"
+            app:destination="@id/logInFragment"
+            app:popUpTo="@id/nav_graph"
+            app:popUpToInclusive="true" />
+            />
+    </fragment>
+</navigation>

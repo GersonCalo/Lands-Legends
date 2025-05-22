@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294232118749",
+    "project_id": "landlegends-75e53",
+    "storage_bucket": "landlegends-75e53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294232118749:android:c18b5bc2d9a35fda4c1234",
+        "android_client_info": {
+          "package_name": "com.t4.jakin_mina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB__M9dvPKg7GtZ4YLkGKjtiLRQESNK_xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="accent">#0583FF</color> <!-- Color del botón y selecciones -->
+
+    <!-- Agrega estos si no existen -->
+    <color name="black">#FF000000</color>
+    <color name="background">#121A21</color> <!-- Color del fondo del fragmento -->
+</resources>

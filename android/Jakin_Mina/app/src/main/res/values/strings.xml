@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Lands and Legends</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LogInToYourAccount">Log in to your account</string>
+    <string name="Email">Email</string>
+    <string name="Company">Company</string>
+    <string name="ShowPassword">Show Password</string>
+    <string name="Enter">Enter</string>
+    <string name="next">Next</string>
+    <string name="close">Close</string>
+    <string name="results">Results</string>
+    <string name="Credencialesinválidas">Invalid credentials</string>
+    <string name="Rellenatodosloscampos">Fill in all the fields</string>
+    <string name="Correcto">Correct</string>
+    <string name="Incorrecto">Incorrect</string>
+    <string name="Seleccionaunarespuesta">Select an answer</string>
+    <string name="Results">Results</string>
+    <string name="Youdidit">You did it!</string>
+    <string name="Congratulations">Congratulations on completing the quiz. Your total score is:</string>
+    <string name="timespent">Time Spent</string>
+    <string name="exit">Exit</string>
+    <string name="notification_title">¡Hora de jugar!</string>
+    <string name="notification_text">No olvides responder tus preguntas diarias</string>
+    <string name="channel_name">Recordatorios diarios</string>
+    <string name="channel_description">Notificaciones diarias para responder preguntas</string>
+    <string name="Errordepermisos">permissions error :</string>
+    <string name="Permisonecesarioparaalarmasexactas">Permission required for exact alarms</string>
+    <string name="Idiomanosoportado">Language not supported</string>
+    <string name="ErroralinicializarTTS">Error initializing TTS</string>
+    <string name="Erroralreprogramar">"Rescheduling error: "</string>
+    <string name="Cargandopreguntas">Loading questions...</string>
+</resources>
