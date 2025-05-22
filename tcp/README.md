@@ -1,18 +1,22 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🖥 Zerbitzariaren exekuzioa
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+### 1. Biltzea eta exekutatzea
+1. Ireki terminal bat proiektuaren karpetan.
+2. Konpilatu kodea:
+   ```bash
+   javac Server.java
+   ```
+3.Zerbitzaria exekutatzen du:
+   ```bash
+   java Server
+   ```
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 2. Funtzionamendua egiaztatzea
+- Dena zuzen badago, mezu hau ikusiko duzu:
+  ```bash
+  Servidor iniciado en puerto 12321
+  ```
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
