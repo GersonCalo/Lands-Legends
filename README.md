@@ -22,7 +22,7 @@
 ## Diseinu
 
 <p align="center">
-  <img src="/android/media/diseño.png" alt="Logo" width="5000px"/>
+  <img src="./img/diseño.png" alt="Logo" width="5000px"/>
 </p>
 
 ## Erabilitako teknologiak
